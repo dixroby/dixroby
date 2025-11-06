@@ -4,9 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Desarrollador+De+Software+..&hearts;++;Programador+de+.NET;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Desarrollador .NET|Angular|React| **
 
-Soy un desarrollador de software con experiencia y pasión por crear programas innovadores que mejoren la eficiencia y efectividad de las organizaciones. Tengo amplios conocimientos en tecnología y programación, lo que me permite crear sistemas confiables y fáciles de usar. Mi objetivo es desarrollar software personalizado que satisfaga las necesidades de una empresa y promueva su éxito.
+Soy un Desarrollador .NET apasionado por crear soluciones innovadoras y escalables. He liderado proyectos que han optimizado la eficiencia operativa y mejorado la experiencia del usuario. Me especializo en .NET, Angular y React JS, y siempre busco implementar las mejores prácticas de desarrollo ágil, seguridad y arquitectura de software. Estoy abierto a nuevas oportunidades para contribuir con mi experiencia y seguir aprendiendo en el camino. 
 
 
 ## Habilidades y lenguajes:
